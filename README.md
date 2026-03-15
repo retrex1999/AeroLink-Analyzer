@@ -1,5 +1,6 @@
 from scapy.all import sniff, IP, TCP, UDP
 from datetime import datetime
+sudo dowland
 
 LOG_FILE = "dashboard_log.txt"
 
